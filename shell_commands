@@ -1,0 +1,2 @@
+mkdir $(printf "s%02i " $(seq 1 50))
+# funct_name $(printf "name_dir%02i " $(sequence x to y))
